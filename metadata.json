@@ -1,0 +1,6 @@
+{
+  "name": "Burla and Yusuf Wedding Invitation",
+  "description": "Burla and Yusuf wedding invitation and RSVP system with responsive details, location map, gallery, and countdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
